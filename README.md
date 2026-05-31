@@ -18,7 +18,7 @@
 public class Susmithaa {
 
     String name         = "Susmithaa Gajendiran";
-    String location     = "Fort Lauderdale, FL, USA";
+    String location     = "USA";
     String degree       = "B.Sc. Information Technology";
     String currentRole  = "Senior Software Engineer @ Capgemini";
 
